@@ -31,7 +31,7 @@ data/
   contoh_upload/   file contoh untuk latihan upload (SOP baru, revisi SOP, laporan shift)
 hari1/             satu file per unit (unit2 sampai unit7), app_asisten_wo.py (Unit 8: chat + upload file)
 hari2/             rag_pipeline.py (pustaka RAG), satu file per unit (unit1 sampai unit6), app_doc_qa.py (Unit 7: chat + lampiran session + upload knowledge)
-scripts/           generator data, pembuat PDF, pembuat starter, reset_knowledge.py
+scripts/           reset_knowledge.py (mengembalikan knowledge base ke kondisi awal)
 setup_check.py     cek kesiapan laptop
 ```
 
@@ -60,6 +60,5 @@ kompatibel dengan API OpenAI (Ollama/vLLM). Semua kode memakai antarmuka yang sa
 
 - Folder `hari1/` dan `hari2/` berisi kode awal (starter) dengan bagian TODO yang dilengkapi peserta.
 - Kembalikan knowledge base ke kondisi awal setelah latihan upload: `python scripts/reset_knowledge.py`.
-- Regenerasi data: `python scripts/generate_synthetic_data.py` (seed tetap) dan `python scripts/build_pdfs.py` (butuh `fpdf2`).
 - Versi yang diuji (Okt 2026, Python 3.11): openai 3.22, langchain-core 1.6, langchain-openai 1.6, langchain-chroma 1.1,
   chromadb 1.5, fastembed 0.8, streamlit 1.64, pandas 3.0, pydantic 2.13.
