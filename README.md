@@ -6,7 +6,7 @@ Pusat Kajian LKFT, Fakultas Teknik, Universitas Gadjah Mada.
 > Semua data di repo ini **fiktif** (lapangan "Blok Sungai Jernih", perusahaan "PT Hulu Energi Nusantara").
 > SOP dan manual dibuat untuk keperluan pelatihan dan **bukan** prosedur resmi perusahaan mana pun.
 
-## Mulai cepat
+## Panduan penggunaan
 
 ```bash
 git clone https://github.com/dteti-workshop/workshop-genai-migas.git
