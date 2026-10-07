@@ -1,0 +1,401 @@
+wo_id,asset_id,equipment_type,failure_category,component,action_category,downtime_hours,safety_flag
+WO-26-12115,SR-020,ESP,Electrical,Motor,Workover,5.0,False
+WO-26-11663,V-SR1-101,Separator,Instrumentation/Control,Level Controller,Repair,24,False
+WO-26-11997,KN-089,SRP,Mechanical,V-Belt,Replace,6.0,False
+WO-26-10128,FL-KN-015,Flowline,Flow Assurance,Pipe,Clean/Flush,12.0,False
+WO-26-12042,SR-014,ESP,Instrumentation/Control,VSD,Replace,6.0,False
+WO-26-10775,SR-041,ESP,Process/Trip,Pump Intake,Adjust/Reset,2.0,False
+WO-26-12500,FL-KN-007,Flowline,Leak/Corrosion,Pipe,Repair,5.0,True
+WO-26-10746,SR-014,ESP,Electrical,Power Cable,Workover,8.0,False
+WO-26-11381,KN-108,SRP,Preventive Maintenance,Pumping Unit,Adjust/Reset,1.0,False
+WO-26-10981,KN-075,SRP,Leak/Corrosion,Stuffing Box,Replace,6.0,True
+WO-26-12620,SR-014,ESP,Process/Trip,Pump Intake,Adjust/Reset,8.0,False
+WO-26-12506,SG-KN-03,Steam Generator,Mechanical,Feedwater Pump,Repair,1.5,False
+WO-26-10832,KN-005,SRP,Mechanical,Downhole Pump,Workover,24,False
+WO-26-12643,KN-027,SRP,Preventive Maintenance,Pumping Unit,Adjust/Reset,3.0,False
+WO-26-10097,KN-007,SRP,Mechanical,Sucker Rod,Workover,8.0,False
+WO-26-11759,ML-023,ESP,Electrical,Power Cable,Workover,9.0,False
+WO-26-12514,KN-175,SRP,Mechanical,Sucker Rod,Workover,6.5,False
+WO-26-11164,SG-KN-05,Steam Generator,Leak/Corrosion,Convection Tube,Repair,0.75,True
+WO-26-11400,FL-SR-009,Flowline,Flow Assurance,Pipe,Clean/Flush,72,False
+WO-26-12065,KN-077,SRP,Mechanical,Sucker Rod,Workover,10.0,False
+WO-26-11497,KN-141,SRP,Mechanical,Downhole Pump,Workover,36.0,False
+WO-26-11667,SR-038,ESP,Electrical,Power Cable,Workover,5.0,False
+WO-26-11711,SR-014,ESP,Electrical,Power Cable,Workover,4.0,False
+WO-26-12277,KN-112,SRP,Leak/Corrosion,Stuffing Box,Replace,72,True
+WO-26-12749,SG-KN-12,Steam Generator,Instrumentation/Control,Flame Scanner,Replace,0.5,False
+WO-26-11029,KN-077,SRP,Mechanical,V-Belt,Replace,16.0,False
+WO-26-10680,SR-050,ESP,Preventive Maintenance,VSD,Adjust/Reset,2.0,False
+WO-26-10953,SR-027,ESP,Electrical,Power Cable,Workover,14.0,False
+WO-26-12533,KN-036,SRP,Leak/Corrosion,Stuffing Box,Replace,24,True
+WO-26-10836,SR-014,ESP,Electrical,Power Cable,Workover,4.0,False
+WO-26-12422,SR-028,ESP,Flow Assurance,Pump Stage,Clean/Flush,4.0,False
+WO-26-10444,V-SR1-101,Separator,Instrumentation/Control,Level Controller,Repair,0.5,False
+WO-26-11191,ML-039,PCP,Mechanical,Stator,Workover,5.0,False
+WO-26-12637,SR-044,ESP,Flow Assurance,Pump Stage,Clean/Flush,1.5,False
+WO-26-11857,SG-KN-12,Steam Generator,Instrumentation/Control,Flame Scanner,Replace,10.0,False
+WO-26-12440,SR-027,ESP,Process/Trip,Pump Intake,Adjust/Reset,16.0,False
+WO-26-11131,KN-018,SRP,Mechanical,Downhole Pump,Workover,0.5,False
+WO-26-11466,SR-006,ESP,Electrical,Power Cable,Workover,4.0,False
+WO-26-12731,KN-141,SRP,Mechanical,V-Belt,Replace,0.5,False
+WO-26-10375,KN-048,SRP,Mechanical,Sucker Rod,Workover,0.5,False
+WO-26-10678,KN-159,SRP,Mechanical,Downhole Pump,Workover,6.0,False
+WO-26-12663,KN-056,SRP,Preventive Maintenance,Pumping Unit,Adjust/Reset,3.0,False
+WO-26-10888,SR-041,ESP,Instrumentation/Control,VSD,Replace,72,False
+WO-26-12357,FL-SR-005,Flowline,Flow Assurance,Pipe,Clean/Flush,4.0,False
+WO-26-10146,SR-014,ESP,Electrical,Power Cable,Workover,5.0,False
+WO-26-10936,KN-103,SRP,Preventive Maintenance,Pumping Unit,Adjust/Reset,1.0,False
+WO-26-12712,K-SR1-201,Gas Compressor,Mechanical,Bearing,Repair,1.5,False
+WO-26-10725,P-SR1-302,Water Injection Pump,Process/Trip,Suction,Adjust/Reset,1.5,False
+WO-26-11678,K-ML1-201,Gas Compressor,Mechanical,Bearing,Repair,2.5,False
+WO-26-12215,KN-112,SRP,Mechanical,Downhole Pump,Workover,7.0,False
+WO-26-12263,KN-112,SRP,Mechanical,V-Belt,Replace,2.0,False
+WO-26-12608,SR-034,ESP,Flow Assurance,Pump Stage,Clean/Flush,6.0,False
+WO-26-11814,SR-041,ESP,Electrical,Motor,Workover,24,False
+WO-26-10990,SR-035,ESP,Electrical,Power Cable,Workover,1.5,False
+WO-26-11117,K-SR1-201,Gas Compressor,Mechanical,Bearing,Repair,9.0,False
+WO-26-11072,SR-014,ESP,Electrical,Motor,Workover,6.5,False
+WO-26-11183,KN-146,SRP,Leak/Corrosion,Stuffing Box,Replace,1.5,True
+WO-26-10475,KN-151,SRP,Mechanical,Gearbox,Repair,3.0,False
+WO-26-12331,SR-027,ESP,Instrumentation/Control,VSD,Replace,10.0,False
+WO-26-10019,ML-006,ESP,Preventive Maintenance,VSD,Adjust/Reset,1.0,False
+WO-26-12687,K-ML1-202,Gas Compressor,Mechanical,Bearing,Repair,9.0,False
+WO-26-11537,KN-084,SRP,Mechanical,Downhole Pump,Workover,16.0,False
+WO-26-12420,KN-077,SRP,Mechanical,V-Belt,Replace,0.5,False
+WO-26-10343,ML-019,ESP,Preventive Maintenance,VSD,Adjust/Reset,3.0,False
+WO-26-11081,ML-003,ESP,Electrical,Power Cable,Workover,8.0,False
+WO-26-11588,KN-009,SRP,Mechanical,Sucker Rod,Workover,4.0,False
+WO-26-11825,K-ML1-201,Gas Compressor,Leak/Corrosion,Mechanical Seal,Replace,8.0,True
+WO-26-10694,KN-074,SRP,Mechanical,Downhole Pump,Workover,4.0,False
+WO-26-12092,SR-027,ESP,Flow Assurance,Pump Stage,Clean/Flush,4.0,False
+WO-26-10000,ML-006,ESP,Electrical,Power Cable,Workover,8.0,False
+WO-26-11631,ML-024,ESP,Preventive Maintenance,VSD,Adjust/Reset,2.0,False
+WO-26-12612,SR-016,ESP,Flow Assurance,Pump Stage,Clean/Flush,72,False
+WO-26-10236,ML-047,PCP,Mechanical,Stator,Workover,4.0,False
+WO-26-10918,K-ML1-201,Gas Compressor,Leak/Corrosion,Mechanical Seal,Replace,4.5,True
+WO-26-10588,KN-008,SRP,Mechanical,Gearbox,Repair,5.0,False
+WO-26-10657,KN-097,SRP,Mechanical,Sucker Rod,Workover,5.0,False
+WO-26-11643,SR-024,ESP,Instrumentation/Control,VSD,Replace,3.0,False
+WO-26-11059,SR-014,ESP,Process/Trip,Pump Intake,Adjust/Reset,72,False
+WO-26-11548,SR-041,ESP,Electrical,Power Cable,Workover,5.0,False
+WO-26-11697,FL-SR-003,Flowline,Leak/Corrosion,Pipe,Repair,9.0,True
+WO-26-11966,KN-069,SRP,Mechanical,Sucker Rod,Workover,2.0,False
+WO-26-10486,SG-KN-11,Steam Generator,Leak/Corrosion,Convection Tube,Repair,24,True
+WO-26-11952,KN-077,SRP,Mechanical,Gearbox,Repair,5.0,False
+WO-26-10807,SR-036,ESP,Electrical,Power Cable,Workover,0.5,False
+WO-26-11435,SR-014,ESP,Process/Trip,Pump Intake,Adjust/Reset,3.0,False
+WO-26-10878,V-ML1-101,Separator,Instrumentation/Control,Level Controller,Repair,8.0,False
+WO-26-11282,SR-014,ESP,Electrical,Power Cable,Workover,7.0,False
+WO-26-11865,KN-136,SRP,Mechanical,Sucker Rod,Workover,2.5,False
+WO-26-11214,KN-112,SRP,Leak/Corrosion,Stuffing Box,Replace,0.75,True
+WO-26-11729,SR-027,ESP,Electrical,Power Cable,Workover,0.75,False
+WO-26-12192,SR-014,ESP,Electrical,Power Cable,Workover,5.0,False
+WO-26-12403,V-SR1-101,Separator,Instrumentation/Control,Level Controller,Repair,3.0,False
+WO-26-11528,SG-KN-10,Steam Generator,Instrumentation/Control,Flame Scanner,Replace,7.0,False
+WO-26-11702,SG-KN-03,Steam Generator,Instrumentation/Control,Flame Scanner,Replace,7.0,False
+WO-26-12389,K-ML1-201,Gas Compressor,Leak/Corrosion,Mechanical Seal,Replace,5.0,True
+WO-26-11787,V-KN2-101,Separator,Leak/Corrosion,Gasket,Replace,4.0,True
+WO-26-11295,SR-010,ESP,Electrical,Power Cable,Workover,6.0,False
+WO-26-11488,SR-021,ESP,Process/Trip,Pump Intake,Adjust/Reset,5.0,False
+WO-26-11159,K-SR1-201,Gas Compressor,Leak/Corrosion,Mechanical Seal,Replace,3.0,True
+WO-26-11240,KN-077,SRP,Mechanical,Downhole Pump,Workover,3.0,False
+WO-26-10368,SR-020,ESP,Flow Assurance,Pump Stage,Clean/Flush,8.0,False
+WO-26-11351,SR-027,ESP,Electrical,Motor,Workover,5.0,False
+WO-26-11048,KN-158,SRP,Mechanical,Downhole Pump,Workover,7.0,False
+WO-26-11204,KN-112,SRP,Mechanical,Sucker Rod,Workover,7.0,False
+WO-26-10612,SR-014,ESP,Flow Assurance,Pump Stage,Clean/Flush,72,False
+WO-26-12304,SG-KN-04,Steam Generator,Instrumentation/Control,Flame Scanner,Replace,5.0,False
+WO-26-10604,K-ML1-202,Gas Compressor,Mechanical,Bearing,Repair,72,False
+WO-26-10901,SR-051,ESP,Preventive Maintenance,VSD,Adjust/Reset,3.0,False
+WO-26-11397,FL-SR-013,Flowline,Leak/Corrosion,Pipe,Repair,24,True
+WO-26-10286,FL-KN-014,Flowline,Flow Assurance,Pipe,Clean/Flush,36.0,False
+WO-26-10904,SG-KN-05,Steam Generator,Leak/Corrosion,Convection Tube,Repair,0.5,True
+WO-26-12017,ML-019,ESP,Electrical,Power Cable,Workover,4.0,False
+WO-26-11462,SR-027,ESP,Electrical,Power Cable,Workover,7.0,False
+WO-26-12164,P-KN1-301,Water Injection Pump,Mechanical,Plunger,Replace,12.0,False
+WO-26-10180,KN-029,SRP,Mechanical,Gearbox,Repair,2.5,False
+WO-26-10243,ML-037,PCP,Mechanical,Stator,Workover,7.0,False
+WO-26-12400,KN-044,SRP,Mechanical,Sucker Rod,Workover,7.0,False
+WO-26-12247,V-SR1-102,Separator,Instrumentation/Control,Level Controller,Repair,0.5,False
+WO-26-10504,ML-036,PCP,Mechanical,Stator,Workover,6.5,False
+WO-26-10715,KN-036,SRP,Mechanical,Gearbox,Repair,7.5,False
+WO-26-11324,KN-013,SRP,Mechanical,Gearbox,Repair,4.5,False
+WO-26-10409,ML-034,PCP,Electrical,Drive Head Motor,Replace,5.0,False
+WO-26-11606,KN-112,SRP,Mechanical,Gearbox,Repair,5.0,False
+WO-26-10198,SR-012,ESP,Electrical,Power Cable,Workover,1.5,False
+WO-26-10780,FL-KN-020,Flowline,Flow Assurance,Pipe,Clean/Flush,6.0,False
+WO-26-12583,ML-015,ESP,Electrical,Motor,Workover,0.5,False
+WO-26-11521,SG-KN-05,Steam Generator,Leak/Corrosion,Convection Tube,Repair,12.0,True
+WO-26-11233,KN-112,SRP,Leak/Corrosion,Stuffing Box,Replace,8.0,True
+WO-26-11434,SR-027,ESP,Instrumentation/Control,VSD,Replace,4.5,False
+WO-26-12062,SR-014,ESP,Instrumentation/Control,VSD,Replace,9.0,False
+WO-26-10074,KN-157,SRP,Mechanical,Gearbox,Repair,8.0,False
+WO-26-12237,ML-011,ESP,Preventive Maintenance,VSD,Adjust/Reset,1.0,False
+WO-26-12180,SG-KN-07,Steam Generator,Instrumentation/Control,Flame Scanner,Replace,6.0,False
+WO-26-11576,V-SR1-102,Separator,Instrumentation/Control,Level Controller,Repair,10.0,False
+WO-26-10555,FL-KN-019,Flowline,Flow Assurance,Pipe,Clean/Flush,3.0,False
+WO-26-10871,KN-077,SRP,Mechanical,V-Belt,Replace,2.5,False
+WO-26-11851,P-SR1-301,Water Injection Pump,Process/Trip,Suction,Adjust/Reset,8.0,False
+WO-26-12323,SR-057,ESP,Process/Trip,Pump Intake,Adjust/Reset,48,False
+WO-26-10394,ML-004,ESP,Flow Assurance,Pump Stage,Clean/Flush,9.0,False
+WO-26-12099,SR-014,ESP,Electrical,Motor,Workover,3.0,False
+WO-26-11259,KN-157,SRP,Mechanical,V-Belt,Replace,1.5,False
+WO-26-11508,K-ML1-202,Gas Compressor,Leak/Corrosion,Mechanical Seal,Replace,7.0,True
+WO-26-12493,SG-KN-06,Steam Generator,Mechanical,Feedwater Pump,Repair,6.0,False
+WO-26-10228,SR-003,ESP,Electrical,Power Cable,Workover,5.0,False
+WO-26-11362,SG-KN-02,Steam Generator,Instrumentation/Control,Flame Scanner,Replace,5.0,False
+WO-26-12719,SR-038,ESP,Electrical,Power Cable,Workover,1.5,False
+WO-26-10587,SG-KN-09,Steam Generator,Instrumentation/Control,Flame Scanner,Replace,10.0,False
+WO-26-10754,ML-048,PCP,Electrical,Drive Head Motor,Replace,8.0,False
+WO-26-11656,SR-041,ESP,Process/Trip,Pump Intake,Adjust/Reset,1.5,False
+WO-26-10083,ML-035,PCP,Electrical,Drive Head Motor,Replace,36.0,False
+WO-26-12378,ML-048,PCP,Mechanical,Stator,Workover,9.0,False
+WO-26-12757,KN-165,SRP,Mechanical,Downhole Pump,Workover,0.75,False
+WO-26-10290,SR-035,ESP,Process/Trip,Pump Intake,Adjust/Reset,6.0,False
+WO-26-11594,ML-041,PCP,Mechanical,Stator,Workover,0.5,False
+WO-26-12571,SR-014,ESP,Flow Assurance,Pump Stage,Clean/Flush,10.0,False
+WO-26-11112,SR-014,ESP,Electrical,Power Cable,Workover,8.0,False
+WO-26-10850,SR-041,ESP,Electrical,Motor,Workover,2.0,False
+WO-26-12787,KN-141,SRP,Mechanical,Downhole Pump,Workover,5.0,False
+WO-26-10204,ML-031,PCP,Mechanical,Stator,Workover,24,False
+WO-26-10451,ML-029,ESP,Instrumentation/Control,VSD,Replace,36.0,False
+WO-26-11878,SG-KN-03,Steam Generator,Instrumentation/Control,Flame Scanner,Replace,4.0,False
+WO-26-11956,KN-070,SRP,Mechanical,Sucker Rod,Workover,1.5,False
+WO-26-12162,SR-014,ESP,Process/Trip,Pump Intake,Adjust/Reset,6.0,False
+WO-26-10647,SR-014,ESP,Instrumentation/Control,VSD,Replace,5.0,False
+WO-26-11623,SR-027,ESP,Electrical,Power Cable,Workover,5.0,False
+WO-26-11740,ML-011,ESP,Electrical,Motor,Workover,5.0,False
+WO-26-12429,KN-051,SRP,Mechanical,Sucker Rod,Workover,5.0,False
+WO-26-10335,KN-084,SRP,Leak/Corrosion,Stuffing Box,Replace,12.0,True
+WO-26-12201,ML-014,ESP,Flow Assurance,Pump Stage,Clean/Flush,5.0,False
+WO-26-10306,SR-041,ESP,Electrical,Power Cable,Workover,8.0,False
+WO-26-12489,KN-039,SRP,Preventive Maintenance,Pumping Unit,Adjust/Reset,1.0,False
+WO-26-10424,ML-041,PCP,Mechanical,Stator,Workover,0.5,False
+WO-26-10761,V-SR1-102,Separator,Leak/Corrosion,Gasket,Replace,9.0,True
+WO-26-10147,SR-027,ESP,Process/Trip,Pump Intake,Adjust/Reset,2.0,False
+WO-26-10351,V-SR1-102,Separator,Instrumentation/Control,Level Controller,Repair,5.0,False
+WO-26-10391,SR-041,ESP,Electrical,Motor,Workover,8.0,False
+WO-26-12655,KN-067,SRP,Preventive Maintenance,Pumping Unit,Adjust/Reset,2.0,False
+WO-26-11921,KN-107,SRP,Leak/Corrosion,Stuffing Box,Replace,10.0,True
+WO-26-11452,SR-037,ESP,Electrical,Motor,Workover,1.5,False
+WO-26-11805,SR-006,ESP,Instrumentation/Control,VSD,Replace,6.5,False
+WO-26-11988,ML-003,ESP,Electrical,Motor,Workover,4.0,False
+WO-26-12137,P-KN1-301,Water Injection Pump,Mechanical,Plunger,Replace,10.0,False
+WO-26-11007,KN-112,SRP,Mechanical,V-Belt,Replace,0.5,False
+WO-26-11649,K-ML1-202,Gas Compressor,Mechanical,Bearing,Repair,7.0,False
+WO-26-10466,SR-041,ESP,Process/Trip,Pump Intake,Adjust/Reset,5.0,False
+WO-26-11910,FL-KN-019,Flowline,Leak/Corrosion,Pipe,Repair,72,True
+WO-26-12032,SR-041,ESP,Electrical,Power Cable,Workover,6.0,False
+WO-26-12799,KN-082,SRP,Mechanical,Sucker Rod,Workover,0.75,False
+WO-26-10115,SR-050,ESP,Electrical,Power Cable,Workover,72,False
+WO-26-11182,KN-021,SRP,Leak/Corrosion,Stuffing Box,Replace,4.5,True
+WO-26-11263,SR-041,ESP,Instrumentation/Control,VSD,Replace,2.0,False
+WO-26-10733,V-SR1-102,Separator,Instrumentation/Control,Level Controller,Repair,24,False
+WO-26-10800,ML-032,PCP,Electrical,Drive Head Motor,Replace,4.0,False
+WO-26-11056,SG-KN-03,Steam Generator,Instrumentation/Control,Flame Scanner,Replace,3.0,False
+WO-26-11199,ML-042,PCP,Electrical,Drive Head Motor,Replace,0.75,False
+WO-26-12594,SR-051,ESP,Electrical,Motor,Workover,16.0,False
+WO-26-10495,SR-014,ESP,Process/Trip,Pump Intake,Adjust/Reset,6.5,False
+WO-26-12694,V-ML1-101,Separator,Instrumentation/Control,Level Controller,Repair,12.0,False
+WO-26-10813,SR-002,ESP,Process/Trip,Pump Intake,Adjust/Reset,8.0,False
+WO-26-11886,SG-KN-05,Steam Generator,Mechanical,Feedwater Pump,Repair,1.5,False
+WO-26-12084,K-SR1-201,Gas Compressor,Mechanical,Bearing,Repair,24,False
+WO-26-11125,KN-087,SRP,Preventive Maintenance,Pumping Unit,Adjust/Reset,1.0,False
+WO-26-10125,SR-054,ESP,Preventive Maintenance,VSD,Adjust/Reset,3.0,False
+WO-26-12779,SG-KN-04,Steam Generator,Mechanical,Feedwater Pump,Repair,3.0,False
+WO-26-12474,SR-020,ESP,Electrical,Power Cable,Workover,5.0,False
+WO-26-12257,SR-007,ESP,Process/Trip,Pump Intake,Adjust/Reset,8.0,False
+WO-26-10432,KN-071,SRP,Preventive Maintenance,Pumping Unit,Adjust/Reset,1.0,False
+WO-26-10542,KN-112,SRP,Mechanical,Sucker Rod,Workover,24,False
+WO-26-10700,ML-029,ESP,Instrumentation/Control,VSD,Replace,3.0,False
+WO-26-11499,SR-033,ESP,Preventive Maintenance,VSD,Adjust/Reset,1.0,False
+WO-26-11068,V-KN2-101,Separator,Instrumentation/Control,Level Controller,Repair,72,False
+WO-26-12190,V-KN2-101,Separator,Instrumentation/Control,Level Controller,Repair,72,False
+WO-26-12566,SR-045,ESP,Electrical,Motor,Workover,3.0,False
+WO-26-12221,SR-041,ESP,Electrical,Power Cable,Workover,8.0,False
+WO-26-11273,KN-179,SRP,Leak/Corrosion,Stuffing Box,Replace,24,True
+WO-26-12697,FL-KN-019,Flowline,Leak/Corrosion,Pipe,Repair,0.5,True
+WO-26-12312,P-SR1-301,Water Injection Pump,Process/Trip,Suction,Adjust/Reset,8.0,False
+WO-26-10796,KN-077,SRP,Leak/Corrosion,Stuffing Box,Replace,14.0,True
+WO-26-11446,ML-022,ESP,Instrumentation/Control,VSD,Replace,2.5,False
+WO-26-12176,SR-014,ESP,Electrical,Motor,Workover,24,False
+WO-26-12246,SR-022,ESP,Process/Trip,Pump Intake,Adjust/Reset,3.0,False
+WO-26-12522,KN-179,SRP,Preventive Maintenance,Pumping Unit,Adjust/Reset,1.0,False
+WO-26-10059,KN-075,SRP,Mechanical,Gearbox,Repair,24,False
+WO-26-11827,FL-KN-038,Flowline,Flow Assurance,Pipe,Clean/Flush,1.5,False
+WO-26-11838,SR-041,ESP,Instrumentation/Control,VSD,Replace,4.0,False
+WO-26-12028,KN-088,SRP,Leak/Corrosion,Stuffing Box,Replace,4.0,True
+WO-26-10312,ML-039,PCP,Mechanical,Stator,Workover,5.0,False
+WO-26-11318,SR-027,ESP,Electrical,Motor,Workover,4.0,False
+WO-26-11869,FL-KN-019,Flowline,Leak/Corrosion,Pipe,Repair,0.5,True
+WO-26-10320,SR-020,ESP,Preventive Maintenance,VSD,Adjust/Reset,3.0,False
+WO-26-11612,FL-KN-019,Flowline,Flow Assurance,Pipe,Clean/Flush,2.0,False
+WO-26-12759,SR-014,ESP,Instrumentation/Control,VSD,Replace,8.0,False
+WO-26-10170,V-KN2-101,Separator,Leak/Corrosion,Gasket,Replace,9.0,True
+WO-26-11847,SR-024,ESP,Electrical,Power Cable,Workover,14.0,False
+WO-26-11291,SR-041,ESP,Electrical,Power Cable,Workover,4.0,False
+WO-26-11626,KN-063,SRP,Preventive Maintenance,Pumping Unit,Adjust/Reset,3.0,False
+WO-26-11389,ML-036,PCP,Mechanical,Stator,Workover,8.0,False
+WO-26-11938,K-ML1-202,Gas Compressor,Mechanical,Bearing,Repair,7.0,False
+WO-26-10099,SR-056,ESP,Electrical,Power Cable,Workover,36.0,False
+WO-26-10297,KN-112,SRP,Mechanical,Gearbox,Repair,12.0,False
+WO-26-11513,FL-KN-031,Flowline,Flow Assurance,Pipe,Clean/Flush,6.0,False
+WO-26-12602,KN-111,SRP,Preventive Maintenance,Pumping Unit,Adjust/Reset,1.0,False
+WO-26-12048,FL-KN-019,Flowline,Leak/Corrosion,Pipe,Repair,3.0,True
+WO-26-11369,FL-SR-013,Flowline,Leak/Corrosion,Pipe,Repair,48,True
+WO-26-12343,SR-022,ESP,Process/Trip,Pump Intake,Adjust/Reset,9.0,False
+WO-26-12705,ML-033,PCP,Electrical,Drive Head Motor,Replace,7.5,False
+WO-26-10269,ML-045,PCP,Electrical,Drive Head Motor,Replace,3.0,False
+WO-26-12549,ML-018,ESP,Flow Assurance,Pump Stage,Clean/Flush,5.0,False
+WO-26-12770,SR-044,ESP,Electrical,Power Cable,Workover,2.0,False
+WO-26-10157,ML-014,ESP,Electrical,Power Cable,Workover,4.0,False
+WO-26-10619,KN-112,SRP,Mechanical,Sucker Rod,Workover,10.0,False
+WO-26-10497,KN-077,SRP,Mechanical,V-Belt,Replace,5.0,False
+WO-26-12543,SR-027,ESP,Electrical,Power Cable,Workover,0.5,False
+WO-26-10963,KN-077,SRP,Mechanical,Sucker Rod,Workover,8.0,False
+WO-26-11309,KN-102,SRP,Mechanical,Sucker Rod,Workover,4.0,False
+WO-26-12679,SR-027,ESP,Electrical,Power Cable,Workover,48,False
+WO-26-10183,SR-017,ESP,Process/Trip,Pump Intake,Adjust/Reset,72,False
+WO-26-12008,SR-029,ESP,Electrical,Motor,Workover,3.0,False
+WO-26-12651,SG-KN-01,Steam Generator,Leak/Corrosion,Convection Tube,Repair,3.0,True
+WO-26-12466,SG-KN-03,Steam Generator,Mechanical,Feedwater Pump,Repair,24,False
+WO-26-10027,KN-112,SRP,Mechanical,V-Belt,Replace,72,False
+WO-26-10910,ML-031,PCP,Electrical,Drive Head Motor,Replace,10.0,False
+WO-26-12777,SR-016,ESP,Electrical,Power Cable,Workover,14.0,False
+WO-26-11978,SR-005,ESP,Process/Trip,Pump Intake,Adjust/Reset,48,False
+WO-26-10665,KN-066,SRP,Mechanical,Sucker Rod,Workover,5.0,False
+WO-26-12386,FL-SR-016,Flowline,Flow Assurance,Pipe,Clean/Flush,8.0,False
+WO-26-10066,ML-046,PCP,Mechanical,Stator,Workover,5.0,False
+WO-26-11096,KN-110,SRP,Mechanical,Sucker Rod,Workover,6.0,False
+WO-26-10211,FL-KN-019,Flowline,Flow Assurance,Pipe,Clean/Flush,7.0,False
+WO-26-10252,ML-031,PCP,Mechanical,Stator,Workover,8.0,False
+WO-26-10529,SR-014,ESP,Electrical,Motor,Workover,4.5,False
+WO-26-10560,KN-112,SRP,Mechanical,Gearbox,Repair,0.75,False
+WO-26-11423,SR-054,ESP,Instrumentation/Control,VSD,Replace,4.0,False
+WO-26-11687,SR-027,ESP,Instrumentation/Control,VSD,Replace,2.0,False
+WO-26-11721,SR-014,ESP,Instrumentation/Control,VSD,Replace,3.0,False
+WO-26-10260,KN-019,SRP,Leak/Corrosion,Stuffing Box,Replace,5.0,True
+WO-26-10461,FL-KN-038,Flowline,Leak/Corrosion,Pipe,Repair,24,True
+WO-26-11302,FL-SR-018,Flowline,Flow Assurance,Pipe,Clean/Flush,6.5,False
+WO-26-10824,FL-KN-012,Flowline,Leak/Corrosion,Pipe,Repair,8.0,True
+WO-26-11795,KN-010,SRP,Mechanical,Sucker Rod,Workover,1.5,False
+WO-26-12124,KN-112,SRP,Mechanical,Sucker Rod,Workover,36.0,False
+WO-26-10476,KN-077,SRP,Mechanical,Sucker Rod,Workover,7.0,False
+WO-26-10191,ML-010,ESP,Electrical,Motor,Workover,7.0,False
+WO-26-10595,SR-014,ESP,Electrical,Power Cable,Workover,12.0,False
+WO-26-10689,KN-043,SRP,Mechanical,Downhole Pump,Workover,0.5,False
+WO-26-10342,SR-041,ESP,Flow Assurance,Pump Stage,Clean/Flush,6.0,False
+WO-26-12460,KN-112,SRP,Mechanical,Sucker Rod,Workover,7.0,False
+WO-26-10275,KN-112,SRP,Mechanical,Gearbox,Repair,7.0,False
+WO-26-11750,SR-041,ESP,Flow Assurance,Pump Stage,Clean/Flush,7.0,False
+WO-26-11543,FL-KN-019,Flowline,Flow Assurance,Pipe,Clean/Flush,6.0,False
+WO-26-10979,KN-077,SRP,Mechanical,Sucker Rod,Workover,1.5,False
+WO-26-11771,FL-KN-008,Flowline,Leak/Corrosion,Pipe,Repair,72,True
+WO-26-11027,KN-021,SRP,Mechanical,V-Belt,Replace,0.75,False
+WO-26-11277,KN-141,SRP,Mechanical,Sucker Rod,Workover,4.5,False
+WO-26-10997,KN-112,SRP,Mechanical,Sucker Rod,Workover,24,False
+WO-26-11764,ML-026,ESP,Process/Trip,Pump Intake,Adjust/Reset,9.0,False
+WO-26-12143,KN-166,SRP,Mechanical,Sucker Rod,Workover,5.0,False
+WO-26-11570,KN-128,SRP,Mechanical,Sucker Rod,Workover,72,False
+WO-26-12210,KN-077,SRP,Mechanical,Sucker Rod,Workover,3.0,False
+WO-26-10737,SR-041,ESP,Flow Assurance,Pump Stage,Clean/Flush,12.0,False
+WO-26-11170,KN-041,SRP,Mechanical,Sucker Rod,Workover,1.5,False
+WO-26-10708,KN-071,SRP,Mechanical,Sucker Rod,Workover,6.0,False
+WO-26-11601,SR-058,ESP,Electrical,Power Cable,Workover,4.0,False
+WO-26-10324,KN-112,SRP,Mechanical,Gearbox,Repair,4.0,False
+WO-26-10867,K-ML1-201,Gas Compressor,Mechanical,Bearing,Repair,24,False
+WO-26-10362,KN-033,SRP,Mechanical,Sucker Rod,Workover,4.0,False
+WO-26-10840,ML-034,PCP,Electrical,Drive Head Motor,Replace,0.75,False
+WO-26-12150,FL-SR-003,Flowline,Leak/Corrosion,Pipe,Repair,4.5,True
+WO-26-12556,KN-077,SRP,Mechanical,Sucker Rod,Workover,24,False
+WO-26-10245,V-ML1-101,Separator,Instrumentation/Control,Level Controller,Repair,6.0,False
+WO-26-11892,KN-131,SRP,Mechanical,Sucker Rod,Workover,6.0,False
+WO-26-11332,FL-KN-019,Flowline,Leak/Corrosion,Pipe,Repair,4.0,True
+WO-26-10634,KN-082,SRP,Mechanical,V-Belt,Replace,5.0,False
+WO-26-11470,KN-169,SRP,Leak/Corrosion,Stuffing Box,Replace,72,True
+WO-26-12078,KN-100,SRP,Mechanical,Sucker Rod,Workover,14.0,False
+WO-26-10040,K-ML1-201,Gas Compressor,Mechanical,Bearing,Repair,36.0,False
+WO-26-10571,KN-077,SRP,Mechanical,Downhole Pump,Workover,1.5,False
+WO-26-10854,SG-KN-02,Steam Generator,Mechanical,Feedwater Pump,Repair,24,False
+WO-26-12349,SR-032,ESP,Electrical,Motor,Workover,8.0,False
+WO-26-10950,SR-007,ESP,Electrical,Power Cable,Workover,7.5,False
+WO-26-12453,KN-077,SRP,Mechanical,Sucker Rod,Workover,72,False
+WO-26-10548,FL-KN-029,Flowline,Flow Assurance,Pipe,Clean/Flush,0.75,False
+WO-26-11143,ML-023,ESP,Flow Assurance,Pump Stage,Clean/Flush,9.0,False
+WO-26-11230,KN-106,SRP,Mechanical,Sucker Rod,Workover,6.0,False
+WO-26-11375,KN-041,SRP,Mechanical,V-Belt,Replace,36.0,False
+WO-26-12412,KN-115,SRP,Mechanical,Sucker Rod,Workover,7.0,False
+WO-26-10109,ML-032,PCP,Mechanical,Stator,Workover,3.0,False
+WO-26-10658,KN-065,SRP,Mechanical,Sucker Rod,Workover,24,False
+WO-26-11018,FL-KN-019,Flowline,Leak/Corrosion,Pipe,Repair,5.0,True
+WO-26-10628,KN-077,SRP,Mechanical,Sucker Rod,Workover,5.0,False
+WO-26-12227,KN-002,SRP,Mechanical,Downhole Pump,Workover,4.5,False
+WO-26-10890,SR-041,ESP,Electrical,Power Cable,Workover,3.0,False
+WO-26-11012,KN-124,SRP,Mechanical,V-Belt,Replace,2.0,False
+WO-26-11347,KN-077,SRP,Mechanical,V-Belt,Replace,5.0,False
+WO-26-11917,KN-160,SRP,Leak/Corrosion,Stuffing Box,Replace,1.5,True
+WO-26-10378,K-ML1-201,Gas Compressor,Mechanical,Bearing,Repair,1.5,False
+WO-26-11415,ML-034,PCP,Mechanical,Stator,Workover,0.75,False
+WO-26-10925,KN-036,SRP,Leak/Corrosion,Stuffing Box,Replace,24,True
+WO-26-11683,KN-077,SRP,Mechanical,Sucker Rod,Workover,48,False
+WO-26-11901,SR-014,ESP,Electrical,Power Cable,Workover,0.75,False
+WO-26-12728,KN-112,SRP,Mechanical,Sucker Rod,Workover,1.5,False
+WO-26-12134,SR-008,ESP,Instrumentation/Control,VSD,Replace,5.0,False
+WO-26-12368,KN-070,SRP,Mechanical,Downhole Pump,Workover,6.5,False
+WO-26-10768,KN-077,SRP,Mechanical,Downhole Pump,Workover,24,False
+WO-26-12015,KN-151,SRP,Mechanical,Sucker Rod,Workover,3.0,False
+WO-26-10943,KN-053,SRP,Mechanical,Sucker Rod,Workover,6.0,False
+WO-26-11252,KN-077,SRP,Mechanical,Sucker Rod,Workover,48,False
+WO-26-12578,ML-010,ESP,Preventive Maintenance,VSD,Adjust/Reset,3.0,False
+WO-26-10435,KN-158,SRP,Preventive Maintenance,Pumping Unit,Adjust/Reset,1.0,False
+WO-26-10404,SG-KN-09,Steam Generator,Instrumentation/Control,Flame Scanner,Replace,5.0,False
+WO-26-11411,SR-049,ESP,Electrical,Motor,Workover,48,False
+WO-26-11782,KN-112,SRP,Mechanical,Sucker Rod,Workover,48,False
+WO-26-11224,FL-KN-005,Flowline,Leak/Corrosion,Pipe,Repair,72,True
+WO-26-12104,SG-KN-10,Steam Generator,Instrumentation/Control,Flame Scanner,Replace,3.0,False
+WO-26-12482,SR-027,ESP,Electrical,Power Cable,Workover,5.0,False
+WO-26-10413,KN-112,SRP,Leak/Corrosion,Stuffing Box,Replace,6.5,True
+WO-26-11723,KN-107,SRP,Mechanical,Downhole Pump,Workover,9.0,False
+WO-26-10785,V-SR1-102,Separator,Instrumentation/Control,Level Controller,Repair,6.0,False
+WO-26-11927,KN-154,SRP,Leak/Corrosion,Stuffing Box,Replace,9.0,True
+WO-26-10009,FL-SR-014,Flowline,Flow Assurance,Pipe,Clean/Flush,0.75,False
+WO-26-11557,SR-041,ESP,Electrical,Motor,Workover,5.0,False
+WO-26-11745,SR-006,ESP,Preventive Maintenance,VSD,Adjust/Reset,3.0,False
+WO-26-11087,SR-042,ESP,Electrical,Power Cable,Workover,6.0,False
+WO-26-11981,KN-001,SRP,Preventive Maintenance,Pumping Unit,Adjust/Reset,1.0,False
+WO-26-10523,SR-012,ESP,Electrical,Power Cable,Workover,0.75,False
+WO-26-12324,KN-164,SRP,Mechanical,Downhole Pump,Workover,7.0,False
+WO-26-12539,KN-077,SRP,Mechanical,Sucker Rod,Workover,7.0,False
+WO-26-11036,ML-017,ESP,Electrical,Motor,Workover,24,False
+WO-26-11338,FL-KN-019,Flowline,Flow Assurance,Pipe,Clean/Flush,7.0,False
+WO-26-12297,SR-047,ESP,Flow Assurance,Pump Stage,Clean/Flush,16.0,False
+WO-26-12669,KN-120,SRP,Mechanical,Downhole Pump,Workover,0.5,False
+WO-26-10042,SR-040,ESP,Process/Trip,Pump Intake,Adjust/Reset,0.75,False
+WO-26-10166,V-KN2-101,Separator,Leak/Corrosion,Gasket,Replace,0.75,True
+WO-26-12282,SR-027,ESP,Flow Assurance,Pump Stage,Clean/Flush,3.0,False
+WO-26-10534,SR-021,ESP,Flow Assurance,Pump Stage,Clean/Flush,0.75,False
+WO-26-12054,SR-014,ESP,Electrical,Motor,Workover,8.0,False
+WO-26-11137,KN-017,SRP,Preventive Maintenance,Pumping Unit,Adjust/Reset,2.0,False
+WO-26-11562,SR-002,ESP,Electrical,Power Cable,Workover,2.0,False
+WO-26-12359,KN-099,SRP,Mechanical,Sucker Rod,Workover,48,False
+WO-26-11152,SR-041,ESP,Process/Trip,Pump Intake,Adjust/Reset,8.0,False
+WO-26-12295,KN-076,SRP,Mechanical,Sucker Rod,Workover,24,False
+WO-26-12742,KN-077,SRP,Mechanical,Gearbox,Repair,4.0,False
+WO-26-10966,KN-077,SRP,Mechanical,V-Belt,Replace,6.5,False
+WO-26-12109,KN-077,SRP,Mechanical,V-Belt,Replace,7.0,False
+WO-26-11483,SR-013,ESP,Process/Trip,Pump Intake,Adjust/Reset,0.75,False
+WO-26-10580,SG-KN-10,Steam Generator,Instrumentation/Control,Flame Scanner,Replace,8.0,False
+WO-26-12443,KN-047,SRP,Preventive Maintenance,Pumping Unit,Adjust/Reset,1.0,False
+WO-26-10515,ML-013,ESP,Electrical,Power Cable,Workover,4.0,False
+WO-26-12268,V-ML1-101,Separator,Instrumentation/Control,Level Controller,Repair,0.5,False
+WO-26-12627,ML-001,ESP,Electrical,Power Cable,Workover,3.0,False
+WO-26-11973,ML-019,ESP,Electrical,Power Cable,Workover,1.5,False
+WO-26-10086,SR-020,ESP,Instrumentation/Control,VSD,Replace,4.0,False
+WO-26-10052,SR-059,ESP,Electrical,Power Cable,Workover,48,False
+WO-26-10222,K-ML1-202,Gas Compressor,Mechanical,Bearing,Repair,0.75,False
+WO-26-11944,KN-112,SRP,Leak/Corrosion,Stuffing Box,Replace,6.0,True
+WO-26-10033,V-ML1-101,Separator,Leak/Corrosion,Gasket,Replace,7.0,True
+WO-26-10639,SR-033,ESP,Process/Trip,Pump Intake,Adjust/Reset,48,False
+WO-26-11807,ML-035,PCP,Mechanical,Stator,Workover,8.0,False
+WO-26-10139,KN-138,SRP,Mechanical,Sucker Rod,Workover,8.0,False
+WO-26-11101,KN-163,SRP,Preventive Maintenance,Pumping Unit,Adjust/Reset,1.0,False

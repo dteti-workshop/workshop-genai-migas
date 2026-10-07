@@ -1,0 +1,25 @@
+# Workshop GenAI Migas — dependensi (diuji dengan Python 3.11, Oktober 2026)
+# Install:  pip install -r requirements.txt
+openai>=1.40,<4
+python-dotenv>=1.0
+pydantic>=2.7,<3
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+pyyaml>=6.0
+streamlit>=1.40
+ipykernel>=6.29
+
+# Hari 2 — RAG
+langchain-core>=1.0,<2
+langchain-openai>=1.0,<2
+langchain-community>=0.4,<1
+langchain-text-splitters>=1.0,<2
+langchain-chroma>=1.0,<2
+chromadb>=1.0,<2
+fastembed>=0.7
+rank-bm25>=0.2.2
+pypdf>=5.0
+
+# Paket lokal (modul common/)
+-e .

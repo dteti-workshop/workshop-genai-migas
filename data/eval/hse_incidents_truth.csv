@@ -1,0 +1,121 @@
+incident_id,incident_type,hazard,severity
+HSE-26-0001,Near Miss,Steam/Hot Surface,Rendah
+HSE-26-0002,Near Miss,Dropped Object,Rendah
+HSE-26-0003,First Aid Case,Working at Height,Rendah
+HSE-26-0004,Lost Time Injury,Vehicle/Driving,Tinggi
+HSE-26-0005,Near Miss,Steam/Hot Surface,Rendah
+HSE-26-0006,Near Miss,Hot Work/Fire,Rendah
+HSE-26-0007,Property Damage,Electrical,Sedang
+HSE-26-0008,Near Miss,Hot Work/Fire,Rendah
+HSE-26-0009,First Aid Case,H2S/Gas,Rendah
+HSE-26-0010,Near Miss,Hot Work/Fire,Rendah
+HSE-26-0011,Near Miss,Working at Height,Rendah
+HSE-26-0012,Medical Treatment Case,Hot Work/Fire,Sedang
+HSE-26-0013,Property Damage,Vehicle/Driving,Sedang
+HSE-26-0014,Near Miss,Steam/Hot Surface,Rendah
+HSE-26-0015,Medical Treatment Case,Vehicle/Driving,Sedang
+HSE-26-0016,Medical Treatment Case,H2S/Gas,Sedang
+HSE-26-0017,First Aid Case,Electrical,Rendah
+HSE-26-0018,Near Miss,Vehicle/Driving,Rendah
+HSE-26-0019,First Aid Case,Electrical,Rendah
+HSE-26-0020,Near Miss,Steam/Hot Surface,Rendah
+HSE-26-0021,Environmental Spill,Spill/Release,Tinggi
+HSE-26-0022,Near Miss,Pinch Point,Rendah
+HSE-26-0023,Near Miss,H2S/Gas,Rendah
+HSE-26-0024,Near Miss,Hot Work/Fire,Rendah
+HSE-26-0025,Lost Time Injury,Working at Height,Tinggi
+HSE-26-0026,First Aid Case,Hot Work/Fire,Rendah
+HSE-26-0027,First Aid Case,Hot Work/Fire,Rendah
+HSE-26-0028,First Aid Case,H2S/Gas,Rendah
+HSE-26-0029,Near Miss,Working at Height,Rendah
+HSE-26-0030,Environmental Spill,Spill/Release,Tinggi
+HSE-26-0031,Near Miss,H2S/Gas,Rendah
+HSE-26-0032,Near Miss,Working at Height,Rendah
+HSE-26-0033,Medical Treatment Case,Electrical,Sedang
+HSE-26-0034,First Aid Case,Hot Work/Fire,Rendah
+HSE-26-0035,First Aid Case,Hot Work/Fire,Rendah
+HSE-26-0036,Environmental Spill,Spill/Release,Tinggi
+HSE-26-0037,Near Miss,Dropped Object,Rendah
+HSE-26-0038,Property Damage,Electrical,Sedang
+HSE-26-0039,Near Miss,Working at Height,Rendah
+HSE-26-0040,Near Miss,Dropped Object,Rendah
+HSE-26-0041,First Aid Case,Pinch Point,Rendah
+HSE-26-0042,Medical Treatment Case,Dropped Object,Sedang
+HSE-26-0043,Property Damage,Vehicle/Driving,Sedang
+HSE-26-0044,Environmental Spill,Spill/Release,Tinggi
+HSE-26-0045,First Aid Case,H2S/Gas,Rendah
+HSE-26-0046,Environmental Spill,Spill/Release,Tinggi
+HSE-26-0047,First Aid Case,H2S/Gas,Rendah
+HSE-26-0048,Near Miss,Manual Handling,Rendah
+HSE-26-0049,First Aid Case,Steam/Hot Surface,Rendah
+HSE-26-0050,Near Miss,Vehicle/Driving,Rendah
+HSE-26-0051,Medical Treatment Case,Hot Work/Fire,Sedang
+HSE-26-0052,Environmental Spill,Spill/Release,Tinggi
+HSE-26-0053,Near Miss,Manual Handling,Rendah
+HSE-26-0054,Environmental Spill,Spill/Release,Tinggi
+HSE-26-0055,Property Damage,Vehicle/Driving,Sedang
+HSE-26-0056,Property Damage,Dropped Object,Sedang
+HSE-26-0057,First Aid Case,Pinch Point,Rendah
+HSE-26-0058,Lost Time Injury,Working at Height,Tinggi
+HSE-26-0059,Near Miss,Electrical,Rendah
+HSE-26-0060,First Aid Case,Steam/Hot Surface,Rendah
+HSE-26-0061,Medical Treatment Case,H2S/Gas,Sedang
+HSE-26-0062,Near Miss,Vehicle/Driving,Rendah
+HSE-26-0063,Near Miss,Manual Handling,Rendah
+HSE-26-0064,Property Damage,Hot Work/Fire,Sedang
+HSE-26-0065,First Aid Case,Vehicle/Driving,Rendah
+HSE-26-0066,Near Miss,Manual Handling,Rendah
+HSE-26-0067,Property Damage,Electrical,Sedang
+HSE-26-0068,Near Miss,Manual Handling,Rendah
+HSE-26-0069,First Aid Case,Hot Work/Fire,Rendah
+HSE-26-0070,First Aid Case,Working at Height,Rendah
+HSE-26-0071,Near Miss,Hot Work/Fire,Rendah
+HSE-26-0072,Lost Time Injury,Steam/Hot Surface,Tinggi
+HSE-26-0073,Medical Treatment Case,Electrical,Sedang
+HSE-26-0074,Medical Treatment Case,Vehicle/Driving,Sedang
+HSE-26-0075,Medical Treatment Case,Steam/Hot Surface,Sedang
+HSE-26-0076,Environmental Spill,Spill/Release,Tinggi
+HSE-26-0077,First Aid Case,Hot Work/Fire,Rendah
+HSE-26-0078,Medical Treatment Case,Steam/Hot Surface,Sedang
+HSE-26-0079,Near Miss,Hot Work/Fire,Rendah
+HSE-26-0080,First Aid Case,Hot Work/Fire,Rendah
+HSE-26-0081,First Aid Case,Dropped Object,Rendah
+HSE-26-0082,Environmental Spill,Spill/Release,Tinggi
+HSE-26-0083,Lost Time Injury,Working at Height,Tinggi
+HSE-26-0084,Environmental Spill,Spill/Release,Tinggi
+HSE-26-0085,Medical Treatment Case,Dropped Object,Sedang
+HSE-26-0086,Near Miss,Working at Height,Rendah
+HSE-26-0087,First Aid Case,Electrical,Rendah
+HSE-26-0088,Lost Time Injury,H2S/Gas,Tinggi
+HSE-26-0089,Near Miss,Steam/Hot Surface,Rendah
+HSE-26-0090,Medical Treatment Case,Vehicle/Driving,Sedang
+HSE-26-0091,Near Miss,Hot Work/Fire,Rendah
+HSE-26-0092,First Aid Case,Steam/Hot Surface,Rendah
+HSE-26-0093,Environmental Spill,Spill/Release,Tinggi
+HSE-26-0094,Medical Treatment Case,Electrical,Sedang
+HSE-26-0095,Medical Treatment Case,Working at Height,Sedang
+HSE-26-0096,Near Miss,Electrical,Rendah
+HSE-26-0097,Near Miss,Manual Handling,Rendah
+HSE-26-0098,Near Miss,Hot Work/Fire,Rendah
+HSE-26-0099,Near Miss,Hot Work/Fire,Rendah
+HSE-26-0100,First Aid Case,Hot Work/Fire,Rendah
+HSE-26-0101,Near Miss,Manual Handling,Rendah
+HSE-26-0102,Near Miss,Manual Handling,Rendah
+HSE-26-0103,Near Miss,Electrical,Rendah
+HSE-26-0104,Property Damage,Dropped Object,Sedang
+HSE-26-0105,Environmental Spill,Spill/Release,Tinggi
+HSE-26-0106,Near Miss,Pinch Point,Rendah
+HSE-26-0107,Medical Treatment Case,H2S/Gas,Sedang
+HSE-26-0108,First Aid Case,Manual Handling,Rendah
+HSE-26-0109,Property Damage,Dropped Object,Sedang
+HSE-26-0110,First Aid Case,Pinch Point,Rendah
+HSE-26-0111,First Aid Case,Hot Work/Fire,Rendah
+HSE-26-0112,First Aid Case,Manual Handling,Rendah
+HSE-26-0113,Property Damage,Vehicle/Driving,Sedang
+HSE-26-0114,Property Damage,Vehicle/Driving,Sedang
+HSE-26-0115,Environmental Spill,Spill/Release,Tinggi
+HSE-26-0116,Medical Treatment Case,Working at Height,Sedang
+HSE-26-0117,Near Miss,Dropped Object,Rendah
+HSE-26-0118,Property Damage,Dropped Object,Sedang
+HSE-26-0119,First Aid Case,Working at Height,Rendah
+HSE-26-0120,Medical Treatment Case,H2S/Gas,Sedang

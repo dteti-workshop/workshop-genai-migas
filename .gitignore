@@ -1,0 +1,14 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.cache/
+models/
+chroma_db/
+outputs/
+.ipynb_checkpoints/
+.DS_Store
+*.egg-info/
+data/docs/uploads/
+.backup_reset/

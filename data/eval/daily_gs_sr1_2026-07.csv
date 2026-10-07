@@ -1,0 +1,32 @@
+tanggal,oil_bopd,water_bwpd,gas_mmscfd,wells_on,deferred_bbl,event
+2026-07-01,4361,39497,2.21,54,0,
+2026-07-02,4412,39211,2.07,54,0,
+2026-07-03,4292,39136,2.1,53,85,"SR-014 trip OL, ESP di-restart setelah flushing"
+2026-07-04,4334,38837,2.17,54,0,
+2026-07-05,4396,39223,2.11,54,0,
+2026-07-06,4408,39497,2.13,54,0,"PM separator V-SR1-102, produksi dialihkan ke V-SR1-101"
+2026-07-07,4399,38930,2.12,54,0,
+2026-07-08,4359,39326,2.13,54,0,
+2026-07-09,4279,39478,2.11,54,60,"SR-027 underload, setting VSD diturunkan ke 50 Hz"
+2026-07-10,4401,39541,2.13,54,0,
+2026-07-11,4349,39599,2.18,54,0,
+2026-07-12,4402,39264,2.09,54,0,
+2026-07-13,4389,39806,2.17,54,0,
+2026-07-14,4020,39157,2.08,54,320,"High level alarm V-SR1-101, LCV macet. Produksi GS di-cut 4 jam"
+2026-07-15,4329,39598,2.18,54,0,
+2026-07-16,4291,39209,2.17,54,0,
+2026-07-17,4334,39152,2.19,54,40,"Hujan lebat, akses ke SR-041 terputus, sumur tidak bisa dicek 1 shift"
+2026-07-18,4296,39501,2.16,54,0,
+2026-07-19,4273,39599,2.12,53,110,"SR-041 kabel ESP ground fault, menunggu rig workover"
+2026-07-20,4158,40048,2.16,53,110,SR-041 masih off menunggu rig
+2026-07-21,4254,39348,2.13,53,110,"Rig masuk SR-041, ganti power cable"
+2026-07-22,4264,39397,2.12,54,0,"Gas detector di SR-027 menunjukkan H2S 12 ppm saat pengambilan sampel; area dievakuasi sementara, pekerjaan dilanjutkan setelah ventilasi dan pemakaian SCBA"
+2026-07-23,4327,40149,2.22,54,0,
+2026-07-24,4307,39962,2.1,54,0,
+2026-07-25,4291,39588,2.21,54,0,"Water injection pump P-SR1-301 trip low suction, reset setelah level tangki naik"
+2026-07-26,4360,39670,2.12,54,0,
+2026-07-27,4289,40249,2.14,54,0,
+2026-07-28,4323,39521,2.21,54,0,"Kunjungan audit internal HSE, temuan: 2 fire extinguisher kedaluwarsa"
+2026-07-29,4283,40162,2.1,54,0,
+2026-07-30,4223,40312,2.1,53,90,"SR-014 trip lagi (OL), flushing kedua bulan ini; usulan evaluasi sand control"
+2026-07-31,4258,39839,2.21,54,0,

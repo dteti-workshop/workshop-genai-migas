@@ -1,0 +1,11 @@
+LAPORAN SERAH TERIMA SHIFT MALAM — GS-SR1 — 2 Agustus 2026 (FIKTIF, untuk latihan lampiran chat)
+
+Supervisor: Rizal Munandar. Produksi minyak 4.190 bopd, air 40.150 bwpd, gas 2,08 MMscfd. Sumur aktif 53/55.
+
+Kejadian:
+- 21.40 SR-014 trip OL lagi (ketiga kalinya dalam 31 hari). Megger 180 MOhm. Belum di-restart, menunggu keputusan PE.
+- 23.15 SR-033 underload, frekuensi diturunkan 52 -> 48 Hz, running normal 00.10.
+- 02.30 Alarm level tinggi V-SR1-101 sesaat (2 menit), LCV merespons normal setelah positioner baru dipasang 30 Juli.
+- 04.00 Bump test seluruh detector shift pagi selesai, 1 unit gagal (SN 22-0417) dan ditarik.
+
+Perlu perhatian shift pagi: keputusan restart/flushing SR-014; pantau SR-033 (PIP rendah).
